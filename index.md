@@ -7,3 +7,6 @@ Welcome to this github site. I am a game developer and IT-Consultant based in Os
 - C++
 - Unity
 - Unreal
+
+Python projects during my time at the university of Oslo &bull; https://github.com/danieljt/python
+Java projects during my time at the university of Oslo &bull; https://github.com/danieljt/python
